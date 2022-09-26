@@ -1,0 +1,187 @@
+.color {
+  margin: 0 auto;
+  display: block;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  width: 100%;
+  max-width: 750px;
+  height: 100%;
+  max-height: 1080px;
+  background: linear-gradient(133.64deg,#5c61a3,#105ba6 100%,#09203f 0);
+}
+
+.ylw {
+  width: 100%;
+  max-width: 680px;
+  height: 100%;
+  max-height: 1080px;
+  margin: 0 auto;
+}
+
+.wizara {
+  width: 100%;
+  max-width: 320px;
+  position: absolute;
+  right: 150px;
+}
+
+.img-wizara{
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  max-width:  320px;
+  width: 100%;
+}
+
+.pipol {
+  position: absolute;
+  top: 320px;
+  left: 180px;
+  height: auto;
+  width: 100%;
+  max-width: 340px;
+  transform: rotateY(3.142rad);
+}
+
+h1 {
+    color: white;
+    font-family: 'Noto Kufi Arabic', sans-serif;
+    font-weight: 500;
+    text-shadow: 0px 0px 5px #5c61a;
+}
+
+.up {
+  top: 0px;
+  position: absolute;
+  left: 60px;
+  font-size: 50px;
+}
+
+.down {
+  top: 60px;
+  position: absolute;
+  left: 370px;
+  font-size: 50px;
+}
+
+.pos {
+  display: block;
+  position: relative;
+  left: 92px;
+}
+
+.massarservice {
+  position: absolute;
+  right: 80px;
+  top: 160px;
+  width: 450px;
+  height: 400px;
+}
+
+.msr {
+  width: 100%;
+  max-width: 190px;
+  height: auto;
+  position: relative;
+  left: 130px;
+  right: 130px;
+}
+
+.fill1 {
+  position: absolute;
+  top: 140px;
+  right: 25px;
+  left: 25px;
+  width: 400px;
+  height: 40px;
+  background-color: white;
+  border-color: black;
+  font-family: 'Noto Kufi Arabic', sans-serif;
+  text-align: right;
+}
+
+.fill1:hover {
+  background-color: #F7F7F5;
+  border-color: grey;
+  transition: 0.1s;
+}
+
+.fill2 {
+  position: absolute;
+  top: 220px;
+  right: 25px;
+  left: 25px;
+  width: 400px;
+  height: 40px;
+  background-color: white;
+  border-color: black;
+  font-family:  'Noto Kufi Arabic', sans-serif;
+  text-align: right;
+}
+
+.fill2:hover {
+  background-color: #F7F7F5;
+  border-color: grey;
+  transition: 0.1s;
+}
+
+.fill2:focus
+
+.labl1 {
+  position: relative;
+  font-size: 16px;
+  font-family: 'Noto Kufi Arabic', sans-serif;
+  color: black;
+  right:20px;
+  left: 210px;
+}
+
+.labl2 {
+  position: relative;
+  font-size: 16px;
+  font-family: 'Noto Kufi Arabic', sans-serif;
+  color: black;
+  right:20px;
+  left: 240px;
+  top: 25px;
+  font-weight: 900;
+}
+
+.lgn {
+  font-family: 'Noto Kufi Arabic', sans-serif;
+  color: white;
+  position: absolute;
+  top: 300px;
+  right: 25px;
+  left: 25px;
+  width: 410px;
+  height: 40px;
+  background: -webkit-linear-gradient(315deg,#ff8723,#ffaf28 25%,#ffaf28 50%,#ff8723);
+  border: none;
+}
+
+.par {
+  font-family: 'Noto Kufi Arabic', sans-serif;
+  color: white;
+  text-shadow: 0px 0px 5px #5c61a;
+}
+
+.texto {
+  position: absolute;
+  top: 195px;
+  width: 500px;
+  text-align: right;
+  display: block;
+  position: relative;
+  left: 90px;
+}
+
+.last {
+  position: absolute;
+  bottom: 5px;
+  right: 88px;
+  height: auto;
+  width: 100%;
+  max-width: 400px;
+}
